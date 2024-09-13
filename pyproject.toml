@@ -68,7 +68,7 @@ axe-playwright-python = "^0.1"
 
 [tool.poetry.group.ai.dependencies]
 anthropic = "^0.28.1"
-litellm = "^1.40.17"
+litellm = "^1.44.8"
 openai = "^1.35.1"
 langchain-community = "^0.2.5"
 
